@@ -1,0 +1,12 @@
+{
+  "name": "subscriptions",
+  "version": "1.0.0",
+  "description": "Subscriptions module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Emem Isaac",
+  "license": "ISC",
+  "dependencies": {}
+}
